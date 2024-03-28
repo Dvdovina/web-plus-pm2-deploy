@@ -2,6 +2,6 @@
 Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy).
 
 ## Информация для ревью
-- IP адрес -
-- Frontend -
-- Backend -
+- IP адрес - 158.160.140.182
+- Frontend - https://mesto.vdovina.nomoredomainswork.ru
+- Backend - https://api.mesto.vdovina.nomoredomainswork.ru
